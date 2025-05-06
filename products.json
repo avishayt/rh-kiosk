@@ -1,21 +1,21 @@
 [
   {
-    "name": "Industrial / Manufacturing",
-    "description": "Run your factory floor with confidence. Whether you're deploying predictive maintenance systems or real-time analytics, RHEM gives your edge infrastructure the resilience and speed to keep production humming.",
-    "price": "Runs like clockwork",
-    "image": "images/industrial.png"
+    "name": "Transportation & Logistics",
+    "description": "Track, analyze, and adapt in motion. From real-time route optimization to vehicle-based edge AI, RHEM ensures your fleet stays in sync.",
+    "price": "No delays, no detours",
+    "image": "images/transportation.png"
   },
   {
-    "name": "Retail",
-    "description": "Modernize your retail experience with edge-managed kiosks, smart shelves, and in-store AI. Seamless updates and security — without touching a single store.",
-    "price": "One low-latency experience",
-    "image": "images/retail.png"
+    "name": "Smart Cities",
+    "description": "Build the future of infrastructure — traffic lights, sensors, surveillance — all orchestrated at the edge. Efficiency and insight at urban scale.",
+    "price": "Built for the speed of life",
+    "image": "images/cities.png"
   },
   {
-    "name": "Healthcare",
-    "description": "Deploy confidently at the edge of care. Whether for imaging systems, hospital automation, or clinical decision support — your data stays close, secure, and compliant.",
-    "price": "Vital signs: all green",
-    "image": "images/healthcare.png"
+    "name": "Telecom",
+    "description": "Scale edge apps from core to tower. Whether it's Open RAN, MEC, or 5G services, RHEM brings order to a highly distributed world.",
+    "price": "Signal strong, ops stronger",
+    "image": "images/telecom.png"
   }
 ]
 
