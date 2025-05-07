@@ -9,6 +9,15 @@ body {
   text-align: center;
 }
 
+@keyframes spin3d {
+  0% {
+    transform: translate(-50%) rotateY(0deg);
+  }
+  100% {
+    transform: translate(-50%) rotateY(360deg);
+  }
+}
+
 body::before {
   content: "";
   position: fixed;
@@ -22,6 +31,8 @@ body::before {
   z-index: -1;
   pointer-events: none;
   transform: translate(-50%);
+  animation: spin3d 20s linear infinite;
+  transform-style: preserve-3d;
 }
 
 .logo-container {
